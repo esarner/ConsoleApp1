@@ -14,7 +14,7 @@ namespace ConsoleApp1
                 LastName = "Särner"
             };
 
-            var hej = "hej";
+            var hej = "hej svejs";
 
             var question = "Who is awesome?";
 
