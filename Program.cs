@@ -14,6 +14,8 @@ namespace ConsoleApp1
                 LastName = "Särner"
             };
 
+            var hej = "hej";
+
             var question = "Who is awesome?";
 
             Console.WriteLine(question.WhoIsAwesome(person));
